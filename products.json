@@ -1,0 +1,84 @@
+[
+  {
+    "name": "iphone x",
+    "price": "120",
+    "company": "apple",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "name": "samsung s20",
+    "price": "120",
+    "company": "samsung",
+    "category": "mobile",
+    "shipping": true
+  },
+  {
+    "name": "Dell Series",
+    "price": "120",
+    "company": "dell",
+    "category": "laptop"
+  },
+  {
+    "name": "Nokia 420",
+    "price": "120",
+    "company": "nokia",
+    "category": "mobile",
+    "shipping": true
+  },
+  {
+    "name": "Mac Pc",
+    "price": "120",
+    "company": "apple",
+    "category": "computer",
+    "shipping": true
+  },
+  {
+    "name": "Macbook Pro",
+    "price": "120",
+    "company": "apple",
+    "category": "laptop",
+    "shipping": true
+  },
+  {
+    "name": "Asus gseries",
+    "price": "120",
+    "company": "asus",
+    "category": "laptop",
+    "shipping": true
+  },
+  {
+    "name": "Accessories",
+    "price": "120",
+    "company": "lenovo",
+    "category": "accessories",
+    "featured": true,
+    "shipping": true
+  },
+  {
+    "name": "Iwatch",
+    "price": "120",
+    "company": "apple",
+    "category": "watch",
+    "shipping": true
+  },
+  {
+    "name": "user need",
+    "price": "120",
+    "company": "apple",
+    "category": "accessories"
+  },
+  {
+    "name": "rolex premium",
+    "price": "120",
+    "company": "rolex",
+    "category": "watch"
+  },
+  {
+    "name": "galaxy w20",
+    "price": "120",
+    "company": "samsung",
+    "category": "watch",
+    "featured": true
+  }
+]
