@@ -1,6 +1,10 @@
 const mongoose = require("mongoose");
 
 const productSchema = new mongoose.Schema({
+  id: {
+    type: String,
+    required: true,
+  },
   name: {
     type: String,
     required: true,
@@ -9,9 +13,29 @@ const productSchema = new mongoose.Schema({
     type: Number,
     required: [true, "price must be provided !"],
   },
+  colors: {
+    type: Array,
+    required: true,
+  },
+  image: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+  },
+  category: {
+    type: String,
+    reruired: true,
+    default: "latkan",
+  },
+  shipping: {
+    type: Boolean,
+    default: null,
+  },
   featured: {
     type: Boolean,
-    default: false,
+    default: null,
   },
   rating: {
     type: Number,
@@ -20,22 +44,6 @@ const productSchema = new mongoose.Schema({
   createdAt: {
     type: Date,
     default: Date.now(),
-  },
-  company: {
-    type: String,
-    enum: {
-      values: [
-        "apple",
-        "samsung",
-        "dell",
-        "mi",
-        "nokia",
-        "asus",
-        "rolex",
-        "lenovo",
-      ],
-      message: `{VALUES} is not supported`,
-    },
   },
 });
 
