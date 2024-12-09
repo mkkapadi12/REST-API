@@ -7,7 +7,7 @@ const ConnectDB = require("./DB/connect");
 //cors
 app.use(
   cors({
-    origin: ["https://bajrang-2-0.vercel.app/", "http://localhost:5173/"],
+    origin: "https://bajrang-2-0.vercel.app/",
     methods: ["GET", "POST"],
   })
 );
