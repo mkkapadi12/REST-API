@@ -28,7 +28,7 @@ const getAllProducts = async (req, res) => {
   }
 
   let pages = Number(req.query.page) || 1;
-  let limits = Number(req.query.limit) || 6;
+  let limits = Number(req.query.limit) || 20;
 
   let skip = (pages - 1) * limits;
 
