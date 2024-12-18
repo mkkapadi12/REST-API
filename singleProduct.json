@@ -1,0 +1,198 @@
+[
+  {
+    "id": "productnoa",
+    "name": "Mota Topa",
+    "price": 360,
+    "colors": ["#000000", "#FFD700"],
+    "description": "The Mota Topa Latkan is a bold and stylish embellishment, perfect for adding a dramatic touch to your traditional attire.",
+    "category": "latkan",
+    "featured": true,
+    "stock": 15,
+    "rating": 4.8,
+    "image": [
+      {
+        "id": "latkanimg001",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/3771078/pexels-photo-3771078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "mota-topa-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg002",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/1082523/pexels-photo-1082523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "mota-topa-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg003",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/220536/pexels-photo-220536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "mota-topa-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg004",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/2567018/pexels-photo-2567018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "mota-topa-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "productnob",
+    "name": "Spring",
+    "price": 85,
+    "colors": ["#A70F2E", "#8B0000"],
+    "description": "The Spring Latkan adds a vibrant and floral charm to any outfit, ideal for festive occasions.",
+    "category": "latkan",
+    "featured": false,
+    "stock": 10,
+    "rating": 4.5,
+    "image": [
+      {
+        "id": "latkanimg005",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/3998652/pexels-photo-3998652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "spring-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg006",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/205926/pexels-photo-205926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "spring-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg007",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/1166860/pexels-photo-1166860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "spring-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg008",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/4342061/pexels-photo-4342061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "spring-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "productnoc",
+    "name": "Shivling",
+    "price": 110,
+    "colors": ["#0000FF", "#ADD8E6"],
+    "description": "The Shivling Latkan is a unique and intricate design, inspired by cultural heritage.",
+    "category": "latkan",
+    "featured": true,
+    "stock": 8,
+    "rating": 5.0,
+    "image": [
+      {
+        "id": "latkanimg009",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "shivling-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg010",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "shivling-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg011",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/1023493/pexels-photo-1023493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "shivling-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg012",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/2079429/pexels-photo-2079429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "shivling-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "productnod",
+    "name": "Fancy",
+    "price": 250,
+    "colors": ["#152131", "#FF4500"],
+    "description": "The Fancy Latkan is perfect for adding elegance and sophistication to your ethnic wear.",
+    "category": "latkan",
+    "featured": false,
+    "stock": 7,
+    "rating": 4.2,
+    "image": [
+      {
+        "id": "latkanimg013",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/4348662/pexels-photo-4348662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "fancy-1.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg014",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/1072172/pexels-photo-1072172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "fancy-2.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg015",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/2581883/pexels-photo-2581883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "fancy-3.png",
+        "size": 1080,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg016",
+        "width": 1080,
+        "height": 650,
+        "url": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "filename": "fancy-4.png",
+        "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  }
+]

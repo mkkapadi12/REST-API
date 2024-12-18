@@ -14,6 +14,7 @@ app.use(
 
 //router
 const products_routes = require("./routes/products");
+const singleProduct_routes = require("./routes/singleProducts");
 
 //PORT number
 const port = process.env.PORT || 5000;
@@ -25,7 +26,7 @@ app.get("/", (req, res) => {
 //middleware or to set router
 
 app.use("/api/products", products_routes);
-
+app.use("/api/singleProduct", singleProduct_routes);
 //server start
 
 const start = async () => {
