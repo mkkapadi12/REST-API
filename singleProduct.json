@@ -14,7 +14,7 @@
         "id": "latkanimg001",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/3771078/pexels-photo-3771078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/0fsPZ5c/Product1.jpg",
         "filename": "mota-topa-1.png",
         "size": 1080,
         "type": "image/png"
@@ -23,7 +23,7 @@
         "id": "latkanimg002",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1082523/pexels-photo-1082523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/Vqy0hK8/Product4.jpg",
         "filename": "mota-topa-2.png",
         "size": 1080,
         "type": "image/png"
@@ -32,7 +32,7 @@
         "id": "latkanimg003",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/220536/pexels-photo-220536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/c1SqH1R/Product3.jpg",
         "filename": "mota-topa-3.png",
         "size": 1080,
         "type": "image/png"
@@ -41,7 +41,7 @@
         "id": "latkanimg004",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/2567018/pexels-photo-2567018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/0fsPZ5c/Product1.jpg",
         "filename": "mota-topa-4.png",
         "size": 1080,
         "type": "image/png"
@@ -63,7 +63,7 @@
         "id": "latkanimg005",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/3998652/pexels-photo-3998652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/R706wb3/Product2.jpg",
         "filename": "spring-1.png",
         "size": 1080,
         "type": "image/png"
@@ -72,7 +72,7 @@
         "id": "latkanimg006",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/205926/pexels-photo-205926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/c1SqH1R/Product3.jpg",
         "filename": "spring-2.png",
         "size": 1080,
         "type": "image/png"
@@ -81,7 +81,7 @@
         "id": "latkanimg007",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1166860/pexels-photo-1166860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/R706wb3/Product2.jpg",
         "filename": "spring-3.png",
         "size": 1080,
         "type": "image/png"
@@ -90,7 +90,7 @@
         "id": "latkanimg008",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/4342061/pexels-photo-4342061.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/c1SqH1R/Product3.jpg",
         "filename": "spring-4.png",
         "size": 1080,
         "type": "image/png"
@@ -112,7 +112,7 @@
         "id": "latkanimg009",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/c1SqH1R/Product3.jpg",
         "filename": "shivling-1.png",
         "size": 1080,
         "type": "image/png"
@@ -121,7 +121,7 @@
         "id": "latkanimg010",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/HKM3VTG/Product6.jpg",
         "filename": "shivling-2.png",
         "size": 1080,
         "type": "image/png"
@@ -130,7 +130,7 @@
         "id": "latkanimg011",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1023493/pexels-photo-1023493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/3TYB0nH/Product15.jpg",
         "filename": "shivling-3.png",
         "size": 1080,
         "type": "image/png"
@@ -139,7 +139,7 @@
         "id": "latkanimg012",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/2079429/pexels-photo-2079429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/d6pZq4C/Product14.jpg",
         "filename": "shivling-4.png",
         "size": 1080,
         "type": "image/png"
@@ -147,11 +147,11 @@
     ]
   },
   {
-    "id": "productnod",
-    "name": "Fancy",
-    "price": 250,
-    "colors": ["#152131", "#FF4500"],
-    "description": "The Fancy Latkan is perfect for adding elegance and sophistication to your ethnic wear.",
+    "id": "productnoe",
+    "name": "Jaripatty",
+    "price": 90,
+    "colors": ["#C16D59", "#FF4500"],
+    "description": "The Jaripatty Latkan showcases a traditional design that complements bridal and festive outfits.",
     "category": "latkan",
     "featured": false,
     "stock": 7,
@@ -161,7 +161,7 @@
         "id": "latkanimg013",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/4348662/pexels-photo-4348662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/dJGZPpy/Product5.jpg",
         "filename": "fancy-1.png",
         "size": 1080,
         "type": "image/png"
@@ -170,7 +170,7 @@
         "id": "latkanimg014",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/1072172/pexels-photo-1072172.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/qCvxtV3/Product7.jpg",
         "filename": "fancy-2.png",
         "size": 1080,
         "type": "image/png"
@@ -179,7 +179,7 @@
         "id": "latkanimg015",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/2581883/pexels-photo-2581883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/FqdPDGP/Product8.jpg",
         "filename": "fancy-3.png",
         "size": 1080,
         "type": "image/png"
@@ -188,7 +188,7 @@
         "id": "latkanimg016",
         "width": 1080,
         "height": 650,
-        "url": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "url": "https://i.ibb.co/prBTgJ9/Product9.jpg",
         "filename": "fancy-4.png",
         "size": 1080,
         "type": "image/png"
