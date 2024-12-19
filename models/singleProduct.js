@@ -13,6 +13,14 @@ const singleProductSchema = new mongoose.Schema({
     type: Number,
     required: [true, "price must be provided !"],
   },
+  MRP: {
+    type: Number,
+    required: true,
+  },
+  discount: {
+    type: Number,
+    required: true,
+  },
   colors: {
     type: Array,
     required: true,
