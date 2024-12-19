@@ -7,7 +7,7 @@
     "description": "The Mota Topa Latkan is a bold and stylish embellishment, perfect for adding a dramatic touch to your traditional attire.",
     "category": "latkan",
     "featured": true,
-    "stock": 15,
+    "quantity": 15,
     "rating": 4.8,
     "image": [
       {
@@ -56,7 +56,7 @@
     "description": "The Spring Latkan adds a vibrant and floral charm to any outfit, ideal for festive occasions.",
     "category": "latkan",
     "featured": false,
-    "stock": 10,
+    "quantity": 10,
     "rating": 4.5,
     "image": [
       {
@@ -105,7 +105,7 @@
     "description": "The Shivling Latkan is a unique and intricate design, inspired by cultural heritage.",
     "category": "latkan",
     "featured": true,
-    "stock": 8,
+    "quantity": 8,
     "rating": 5.0,
     "image": [
       {
@@ -154,7 +154,7 @@
     "description": "The Jaripatty Latkan showcases a traditional design that complements bridal and festive outfits.",
     "category": "latkan",
     "featured": false,
-    "stock": 7,
+    "quantity": 7,
     "rating": 4.2,
     "image": [
       {

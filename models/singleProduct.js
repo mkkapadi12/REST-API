@@ -29,6 +29,10 @@ const singleProductSchema = new mongoose.Schema({
     type: Boolean,
     default: null,
   },
+  quantity: {
+    type: Number,
+    required: true,
+  },
   rating: {
     type: Number,
     default: 4.9,
