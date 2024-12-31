@@ -45,6 +45,10 @@ const singleProductSchema = new mongoose.Schema({
     type: Number,
     default: 4.9,
   },
+  highlight: {
+    type: String,
+    required: true,
+  },
   image: {
     type: Array,
     required: true,
