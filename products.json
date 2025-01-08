@@ -184,10 +184,46 @@
     "name": "Golden Beaded Thread Tassel Latkan",
     "price": 540,
     "MRP": 675,
-    "colors": ["#6B2B1F"],
+    "colors": ["#C88814"],
     "image": "https://i.ibb.co/D5KsHT0/Product19-1.jpg",
     "description": "The Golden Beaded Thread Tassel Latkan is a premium embellishment crafted with intricate beadwork and durable golden threads. It adds an elegant and luxurious touch to lehengas, sarees, and other traditional wear, making it perfect for festive occasions and weddings.",
     "category": "Tassel latkan",
+    "shipping": true,
+    "featured": null
+  },
+  {
+    "id": "productnoq",
+    "name": "Pearl Green Tassel Latkan",
+    "price": 450,
+    "MRP": 550,
+    "colors": ["#004225"],
+    "image": "https://i.ibb.co/0BZpCk6/Product17-1.jpg",
+    "description": "The Pearl Green Tassel Latkan is a perfect blend of elegance and charm, featuring intricate pearl detailing and green tassels to add sophistication to your traditional outfits.",
+    "category": "Tassel latkan",
+    "shipping": true,
+    "featured": null
+  },
+  {
+    "id": "productnor",
+    "name": "Maroon Gold Beaded Tassel Latkan",
+    "price": 470,
+    "MRP": 570,
+    "colors": ["#800000"],
+    "image": "https://i.ibb.co/0BZpCk6/Product17-1.jpg",
+    "description": "The Pearl Green Tassel Latkan is a perfect blend of elegance and charm, featuring intricate pearl detailing and green tassels to add sophistication to your traditional outfits.",
+    "category": "Beaded latkan",
+    "shipping": true,
+    "featured": null
+  },
+  {
+    "id": "productnos",
+    "name": "Plum Purple Thread Tassel Latkan",
+    "price": 400,
+    "MRP": 500,
+    "colors": ["#673147"],
+    "image": "https://i.ibb.co/HPw7x14/Product18-1.jpg",
+    "description": "The Plum Purple Tassel Latkan exudes simplicity and elegance, designed with rich plum tassels and golden loops, perfect for enhancing your traditional attire.",
+    "category": "Thread latkan",
     "shipping": true,
     "featured": null
   }

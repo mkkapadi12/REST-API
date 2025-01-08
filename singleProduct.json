@@ -218,7 +218,7 @@
     "description": "The Golden Beaded Thread Tassel Latkan is a premium embellishment crafted with intricate beadwork and durable golden threads. It adds an elegant and luxurious touch to lehengas, sarees, and other traditional wear, making it perfect for festive occasions and weddings.",
     "category": "Tassel latkan",
     "featured": true,
-    "quantity": 6,
+    "quantity": 16,
     "rating": 4.8,
     "highlight": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'><h1 style='color: #6254F3; text-align: start; font-size: 24px;'>Latkan Product Details</h1><ul style='list-style-type: square; margin-left: 20px;'><li><strong>What's Included:</strong> 12 Latkan (1 dozen)</li><li><strong>Suitable for:</strong> Traditional and Festive Wear</li><li><strong>Style:</strong> Luxurious and Elegant</li><li><strong>Material:</strong> High-quality Thread and Beads</li><li><strong>Season:</strong> All Seasons</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Features</h2><ul style='list-style-type: circle; margin-left: 20px;'><li><strong>Material:</strong> Long-lasting thread with premium beadwork</li><li><strong>Design:</strong> Stylish golden tassels for an opulent look</li><li><strong>Fit:</strong> Easy to attach to garments</li><li><strong>Durability:</strong> Suitable for repeated use without losing its charm</li><li>The actual product may slightly differ in color from the images.</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Returns Policy</h2><ul style='list-style-type: disc; margin-left: 20px;'><li><strong>Exchange Reason:</strong> Damaged or defective product</li><li><strong>Return Period:</strong> 7 Days</li><li><strong>Return Policy:</strong> Exchange or refund</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Return Instructions</h2><ul style='list-style-type: decimal; margin-left: 20px;'><li>Keep the item in its original condition and packaging along with the MRP tag and accessories for a successful pick-up.</li><li>The product should be in unused, undamaged, and original condition without any stains, scratches, tears, or holes.</li><li>Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies and accessories).</li></ul></div>",
     "image": [
@@ -256,6 +256,162 @@
         "url": "https://i.ibb.co/wM71W2j/Product19-4.jpg",
         "filename": "golden-thread-tassel-4.jpg",
         "size": 1080,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "productnoq",
+    "name": "Pearl Green Tassel Latkan",
+    "price": 450,
+    "MRP": 550,
+    "discount": 18,
+    "colors": ["#004225", "#020605"],
+    "description": "The Pearl Green Tassel Latkan is a perfect blend of elegance and charm, featuring intricate pearl detailing and green tassels to add sophistication to your traditional outfits.",
+    "category": "Tassel latkan",
+    "featured": true,
+    "quantity": 20,
+    "rating": 4.9,
+    "highlight": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'><h1 style='color: #6254F3; text-align: start; font-size: 24px;'>Latkan Product Details</h1><ul style='list-style-type: square; margin-left: 20px;'><li><strong>What's Included:</strong> 6 Latkans</li><li><strong>Suitable for:</strong> Bridal and Festive Wear</li><li><strong>Style:</strong> Elegant and Sophisticated</li><li><strong>Material:</strong> Pearls, Thread, and Metal</li><li><strong>Season:</strong> All Seasons</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Features</h2><ul style='list-style-type: circle; margin-left: 20px;'><li><strong>Material:</strong> High-quality pearls and durable thread</li><li><strong>Design:</strong> Graceful green tassels with golden accents</li><li><strong>Attachment:</strong> Easy-to-use loops for garments</li><li><strong>Durability:</strong> Long-lasting and resistant to wear</li><li>The actual product may slightly differ in color from the images.</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Returns Policy</h2><ul style='list-style-type: disc; margin-left: 20px;'><li><strong>Exchange Reason:</strong> Damaged or defective product</li><li><strong>Return Period:</strong> 7 Days</li><li><strong>Return Policy:</strong> Exchange or refund</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Return Instructions</h2><ul style='list-style-type: decimal; margin-left: 20px;'><li>Keep the item in its original condition and packaging along with the MRP tag and accessories for a successful pick-up.</li><li>The product should be in unused, undamaged, and original condition without any stains, scratches, tears, or holes.</li><li>Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies, and accessories).</li></ul></div>",
+    "image": [
+      {
+        "id": "latkanimg171",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/0BZpCk6/Product17-1.jpg",
+        "filename": "pearl-green-1.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg172",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/3mZRGhN/Product17-2.jpg",
+        "filename": "pearl-green-2.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg173",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/mBDrSvm/Product17-4.jpg",
+        "filename": "pearl-green-3.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg174",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/0BZpCk6/Product17-1.jpg",
+        "filename": "pearl-green-4.png",
+        "size": 1024,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "productnor",
+    "name": "Maroon Gold Beaded Tassel Latkan",
+    "price": 470,
+    "MRP": 570,
+    "discount": 17,
+    "colors": ["#800000", "#62091C"],
+    "description": "The Maroon Gold Beaded Tassel Latkan is a bold and stylish addition to your festive or bridal attire, designed with vibrant maroon beads and tassels for a striking look.",
+    "category": "Beaded latkan",
+    "featured": true,
+    "quantity": 18,
+    "rating": 4.8,
+    "highlight": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'><h1 style='color: #6254F3; text-align: start; font-size: 24px;'>Latkan Product Details</h1><ul style='list-style-type: square; margin-left: 20px;'><li><strong>What's Included:</strong> 6 Latkans</li><li><strong>Suitable for:</strong> Bridal and Party Wear</li><li><strong>Style:</strong> Bold and Vibrant</li><li><strong>Material:</strong> Beads, Thread, and Metal</li><li><strong>Season:</strong> All Seasons</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Features</h2><ul style='list-style-type: circle; margin-left: 20px;'><li><strong>Material:</strong> High-quality beads and durable thread</li><li><strong>Design:</strong> Rich maroon tassels with golden embellishments</li><li><strong>Attachment:</strong> Easy-to-use loops for garments</li><li><strong>Durability:</strong> Long-lasting and resistant to wear</li><li>The actual product may slightly differ in color from the images.</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Returns Policy</h2><ul style='list-style-type: disc; margin-left: 20px;'><li><strong>Exchange Reason:</strong> Damaged or defective product</li><li><strong>Return Period:</strong> 7 Days</li><li><strong>Return Policy:</strong> Exchange or refund</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Return Instructions</h2><ul style='list-style-type: decimal; margin-left: 20px;'><li>Keep the item in its original condition and packaging along with the MRP tag and accessories for a successful pick-up.</li><li>The product should be in unused, undamaged, and original condition without any stains, scratches, tears, or holes.</li><li>Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies, and accessories).</li></ul></div>",
+    "image": [
+      {
+        "id": "latkanimg161",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/GCmzBnP/Product16-2.jpg",
+        "filename": "maroon-gold-1.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg162",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/M10GJsz/Product16-1.jpg",
+        "filename": "maroon-gold-2.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg163",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/jTJBcqK/Product16-3.jpg",
+        "filename": "maroon-gold-3.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg164",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/djbWmWH/Product16-4.jpg",
+        "filename": "maroon-gold-4.png",
+        "size": 1024,
+        "type": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "productnos",
+    "name": "Plum Purple Thread Tassel Latkan",
+    "price": 400,
+    "MRP": 500,
+    "discount": 20,
+    "colors": ["#673147"],
+    "description": "The Plum Purple Tassel Latkan exudes simplicity and elegance, designed with rich plum tassels and golden loops, perfect for enhancing your traditional attire.",
+    "category": "Thread latkan",
+    "featured": true,
+    "quantity": 25,
+    "rating": 4.7,
+    "highlight": "<div style='font-family: Arial, sans-serif; line-height: 1.6; color: #333;'><h1 style='color: #6254F3; text-align: start; font-size: 24px;'>Latkan Product Details</h1><ul style='list-style-type: square; margin-left: 20px;'><li><strong>What's Included:</strong> 6 Latkans</li><li><strong>Suitable for:</strong> Party Wear and Casual Ethnic Outfits</li><li><strong>Style:</strong> Simple and Chic</li><li><strong>Material:</strong> Durable Thread and Metal</li><li><strong>Season:</strong> All Seasons</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Features</h2><ul style='list-style-type: circle; margin-left: 20px;'><li><strong>Material:</strong> Soft, high-quality thread and metallic accents</li><li><strong>Design:</strong> Vibrant plum purple tassels paired with a golden loop</li><li><strong>Attachment:</strong> Convenient to fasten on any garment</li><li><strong>Durability:</strong> Designed to last and resist wear</li><li>The actual product may slightly differ in color from the images.</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Returns Policy</h2><ul style='list-style-type: disc; margin-left: 20px;'><li><strong>Exchange Reason:</strong> Damaged or defective product</li><li><strong>Return Period:</strong> 7 Days</li><li><strong>Return Policy:</strong> Exchange or refund</li></ul><h2 style='color: #6254F3; margin-top: 20px;'>Return Instructions</h2><ul style='list-style-type: decimal; margin-left: 20px;'><li>Keep the item in its original condition and packaging along with the MRP tag and accessories for a successful pick-up.</li><li>The product should be in unused, undamaged, and original condition without any stains, scratches, tears, or holes.</li><li>Correct and complete product (with the original brand, article number, undetached MRP tag, product's original packaging, freebies, and accessories).</li></ul></div>",
+    "image": [
+      {
+        "id": "latkanimg181",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/HPw7x14/Product18-1.jpg",
+        "filename": "plum-purple-1.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg182",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/ZKLrnmP/Product18-2.jpg",
+        "filename": "plum-purple-2.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg183",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/JjCV8JB/Product18-3.jpg",
+        "filename": "plum-purple-3.png",
+        "size": 1024,
+        "type": "image/png"
+      },
+      {
+        "id": "latkanimg184",
+        "width": 1080,
+        "height": 650,
+        "url": "https://i.ibb.co/fM0gx1K/Product18-4.jpg",
+        "filename": "plum-purple-4.png",
+        "size": 1024,
         "type": "image/png"
       }
     ]
